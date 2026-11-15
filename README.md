@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/HirPtl10/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HirPtl10/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HirPtl10/Leetcode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1882-process-tasks-using-servers](https://github.com/HirPtl10/Leetcode-Problems/tree/master/1882-process-tasks-using-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HirPtl10/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HirPtl10/Leetcode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3665-twisted-mirror-path-count](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3693-climbing-stairs-ii) |
 ## Matrix
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HirPtl10/Leetcode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
@@ -103,5 +106,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HirPtl10/Leetcode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
