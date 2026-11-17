@@ -38,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/HirPtl10/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0994-rotting-oranges](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/HirPtl10/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -116,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/HirPtl10/Leetcode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
