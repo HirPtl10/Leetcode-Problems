@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HirPtl10/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HirPtl10/Leetcode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1882-process-tasks-using-servers](https://github.com/HirPtl10/Leetcode-Problems/tree/master/1882-process-tasks-using-servers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/HirPtl10/Leetcode-Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HirPtl10/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
@@ -67,10 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HirPtl10/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/HirPtl10/Leetcode-Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
 | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/HirPtl10/Leetcode-Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## String
