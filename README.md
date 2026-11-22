@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HirPtl10/Leetcode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3665-twisted-mirror-path-count](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3693-climbing-stairs-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0006-zigzag-conversion) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/HirPtl10/Leetcode-Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/HirPtl10/Leetcode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HirPtl10/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
@@ -147,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
