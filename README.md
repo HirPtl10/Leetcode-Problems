@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
+| [3483-unique-3-digit-even-numbers](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3693-climbing-stairs-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HirPtl10/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3483-unique-3-digit-even-numbers](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -137,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
