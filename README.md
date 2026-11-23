@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0994-rotting-oranges](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/HirPtl10/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
+| [1352-product-of-the-last-k-numbers](https://github.com/HirPtl10/Leetcode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HirPtl10/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HirPtl10/Leetcode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1882-process-tasks-using-servers](https://github.com/HirPtl10/Leetcode-Problems/tree/master/1882-process-tasks-using-servers) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/HirPtl10/Leetcode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HirPtl10/Leetcode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/HirPtl10/Leetcode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HirPtl10/Leetcode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Simulation
@@ -154,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/HirPtl10/Leetcode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/HirPtl10/Leetcode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
