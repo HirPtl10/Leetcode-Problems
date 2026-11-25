@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0994-rotting-oranges](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0994-rotting-oranges) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HirPtl10/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
