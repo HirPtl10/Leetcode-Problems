@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [1143-longest-common-subsequence](https://github.com/HirPtl10/Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HirPtl10/Leetcode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3665-twisted-mirror-path-count](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3693-climbing-stairs-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/HirPtl10/Leetcode-Problems/tree/master/0006-zigzag-conversion) |
+| [1143-longest-common-subsequence](https://github.com/HirPtl10/Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/HirPtl10/Leetcode-Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/HirPtl10/Leetcode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/HirPtl10/Leetcode-Problems/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/HirPtl10/Leetcode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/HirPtl10/Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
